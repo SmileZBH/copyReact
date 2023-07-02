@@ -24,6 +24,7 @@ const Nav = () => {
           <Link to='contact' activeClass='active' smooth={true} spy={true} className=' cursor-pointer w-[60px] h-[60px] flex items-center justify-center'>
             <BsChatSquare />
           </Link>
+          <div>111</div>
         </div>
       </div>
     </nav>
